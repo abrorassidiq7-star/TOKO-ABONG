@@ -1,7 +1,7 @@
 /* === Data Produk (10 item, bisa diedit sesuai kebutuhan) === */
 const PRODUCTS = [
-  { id:"p2", name:"Tramadol 50mg 1 Box",  price:125000, image:"https://botplusweb.farmaceuticos.com/Documentos/AEMPS/Fotos/108180/full/63910_materialas.jpg" },
-  { id:"p9", name:"Kondom Sutra isi 3",  price:14000, image:"https://cf.shopee.co.id/file/420445beb2121d893b9fb2bc7ac4e5c6"},
+  { id:"p2", name:"zzz",  price:125000, image:".jpg" },
+  { id:"p9", name:"zzz",  price:14000, image:""},
 ];
 
 /* === Elemen DOM === */
